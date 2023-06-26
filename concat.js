@@ -20,11 +20,11 @@ function readLine() {
 }
 
 function main() {
-    var i = 4
-    var d = 4.0
-    var s = "HackerRank "
+    let i = 4
+    let d = 4.0
+    let s = "HackerRank "
     // Declare second integer, double, and String variables.
-    var a = parseInt(readLine()); var b = parseFloat(readLine()); var c = readLine(); a += i;
+    let a = parseInt(readLine()); let b = parseFloat(readLine()); let c = readLine(); a += i;
 
     // Read and save an integer, double, and String to your variables.
     b += d;
